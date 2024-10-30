@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+*.db
+
+# Prolog
+*.pl~      # Backup files
+*.log      # Log files
+*.out      # Output files
+*.tst      # Test files
+*.err      # Error files
+
+# Haskell
+*.hi        # Haskell interface files
+*.o         # Haskell object files
+*.ghci      # GHCi files
+dist/       # Cabal build directory
+.cabal-sandbox/  # Cabal sandbox directory
+*.cabal     # Cabal build artifacts
+
+# General
+*.DS_Store  # macOS Finder metadata
+*.log       # Log files
+*.tmp       # Temporary files
