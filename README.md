@@ -1,6 +1,6 @@
-# University Projects Repository
+# University Courses Repository
 
-This repository showcases various projects and assignments that I have completed during my studies in programming.
+This repository contains some of the projects and assignments that I have completed during my studies.
 
 - **Functional Programming (`Haskell`)**
 - **Logic Programming (`Prolog`)**
